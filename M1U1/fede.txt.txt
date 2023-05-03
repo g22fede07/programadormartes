@@ -3,3 +3,7 @@ lista de compras
 galletitas
 arroz
 leche
+bananas 
+pera
+palta
+cebolla
